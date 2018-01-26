@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/MintCN/linux-insides-zh](https://badges.gitter.im/MintCN/linux-insides-zh.svg)](https://gitter.im/MintCN/linux-insides-zh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+> 本开源书 forked from [Linux 内核揭密](https://github.com/MintCN/linux-insides-zh)，作者为 [MintCN](https://github.com/MintCN)，欢迎大家 star 原作者的 [repo](https://github.com/MintCN/linux-insides-zh)，以便获得最新更新，谢谢！
+
 一系列关于 Linux 内核和其内在机理的帖子。
 
 **目的很简单** - 分享我对 Linux 内核内在机理的一点知识，帮助对 Linux 内核内在机理感兴趣的人，和其他低级话题。
